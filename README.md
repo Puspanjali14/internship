@@ -23,7 +23,8 @@ A clean and responsive **Quote Generator App** built using only **HTML, CSS, and
 
 ## 🚀 Live Demo
 
-🔗 Hosted on Netlify: [**Click here to view live**](https://your-netlify-link.netlify.app)
+🔗 Hosted on Netlify: https://demointernship123.netlify.app/
+
 
 ## 🔧 Technologies Used
 
